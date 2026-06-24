@@ -15,7 +15,7 @@
 * The Formation of Preferences: Causal Evidence on the Role of Cognitive Ability, with Chris Dawson and Rita Dias Pereira.
 * Genes, Preferences, and Childhood Disadvantage, with Chris Dawson and Rita Dias Pereira.
 * Social Mobility, Labour Markets, and Patience.
-* Decision Sobering: Do Expectations Drift When They Matter?, with Chris Dawson and David de Meza.
+
 
 
 
