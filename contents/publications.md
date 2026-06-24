@@ -6,11 +6,11 @@
 
 * <strong>Siyu Xu</strong>, Qing Zhang<sup>*</sup>, Chris Dawson and Paul Baker. Motivated Reasoning, Cognitive Ability and Unrealistic Optimism.  <em>Journal of Experimental Social Psychology</em> Reject and Resubmit.
 
-<small>Fundings: CoI-£3600
+<small>Fundings: CoI-£3600 </small>
 
 * <strong>Siyu Xu</strong><sup>*</sup>, Chris Dawson and Paul Baker. More Guts, More Glory: The Impact of Overconfidence on Financial Outcomes.  <em>Journal of Financial and Quantitative Analysis</em> Reject and Resubmit.
 
-<small>Presentations:18th RGS Doctoral Conference in Economics,2025
+<small>Presentations:18th RGS Doctoral Conference in Economics,2025 </small>
 
 * <strong>Siyu Xu</strong>, Cui Fu<sup>*</sup>. Migration, Belief Updating and Non-cooperative Behaviour within the Household: Evidence from China. Under Review.
 
@@ -22,11 +22,11 @@
 
 * Genes, Preferences, and Childhood Disadvantage, with Chris Dawson and Rita Dias Pereira.
 
-<small>Fundings: PI-£1,943; CoI-£3500
+<small>Fundings: PI-£1,943; CoI-£3500 </small>
 
 * Social Mobility, Labour Markets, and Patience.
 
-<small>Presentations:18th RGS Doctoral Conference in Economics (2025);EER Second Summer School (Poster) 
+<small>Presentations:18th RGS Doctoral Conference in Economics (2025);EER Second Summer School (Poster)  </small>
 
 
 
