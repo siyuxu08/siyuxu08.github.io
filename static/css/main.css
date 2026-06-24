@@ -108,5 +108,48 @@ section .main-body{
         margin: 0;
     }
 }
+library(readxl)
 
 
+
+# Keep only observations where vd_regime == 1
+df <- df %>% filter(vd_regime == 1)
+
+# Convert necessary variables to numeric (force conversion)
+df <- df %>%
+  mutate(across(c(m1, m2, inflation, cbi_w_garriga, credit, 
+                  inflation_latest, MilitaryexpenditureofGDP, 
+                  GDP_perca_constant, GDPgrowthannual, fix, 
+                  Ygap, fiscal_bal_gdp, pg, TradeofGDP, 
+                  Coverageofsocialinsurancepro, 
+                  Coverageofsocialsafetynetpr), 
+                as.numeric, .names = "clean_{.col}"))
+
+# Correlation matrix with significance levels
+cor_matrix <- cor(df[, c("m1", "m2", "inflation", "cbi_w_garriga", "credit")], use="pairwise.complete.obs")
+print(cor_matrix)
+
+# Encoding country_name as a factor and setting panel data structure
+df$country_id <- as.numeric(as.factor(df$country_name))
+df <- pdata.frame(df, index = c("country_id", "year"))
+
+# Difference-GMM Estimation using pgmm()
+gmm_model1 <- pgmm(
+  m1 ~ lag(m1, 1) + ele + inflation_latest + fix + Ygap + credit + cbi_w_garriga |
+    lag(m1, 1:75) + lag(inflation_latest, 1:17),
+  data = df, effect = "individual", model = "twosteps"
+)
+summary(gmm_model1)
+
+
+# Second GMM Model with additional variable ele_p
+gmm_model2 <- pgmm(
+  m1 ~ lag(m1, 1) + ele + ele_p + inflation_latest + fix + Ygap + credit + cbi_w_garriga |
+    lag(m1, 1:75) + lag(inflation_latest, 1:17),
+  data = df, effect = "individual", model = "twosteps"
+)
+summary(gmm_model2)
+
+library(plm)
+library(AER)
+library(pgmm)
