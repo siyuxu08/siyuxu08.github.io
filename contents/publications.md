@@ -1,8 +1,13 @@
-- <strong>Siyu Xu</strong>, Cui Fu. Horizon-depend Preference of Rural Women: Non-cooperative Behaviour among Migrant Spouses (2024). Working paper. Presented in China Association of Labor Economics Annual Conference
+* <strong>Siyu Xu</strong>, Qing Zhang<sup>*</sup>, Chris Dawson and Paul Baker. Motivated Reasoning, Cognitive Ability and Unrealistic Optimism. Reject and Resubmit at <em>Journal of Experimental Social Psychology</em>.
 
-- <strong>Siyu Xu</strong>, Does Altruism Affect the Utilization of the New Generation of Migrant Workers? (2024). Working paper
+* <strong>Siyu Xu</strong><sup>*</sup>, Chris Dawson and Paul Baker. More Guts, More Glory: The Impact of Overconfidence on Financial Outcomes. Reject and Resubmit at <em>Journal of Financial and Quantitative Analysis</em>.
 
-- <strong>Siyu Xu</strong>, Jun He and Noshaba Aziz, ‘I’ VS ‘Me’: The Urbanization of ‘Post-80s’ and ‘Post-90s’ Chinese Migrant Workers, Economic Research, (2023)[[Paper]](https://www.tandfonline.com/doi/full/10.1080/1331677X.2023.2179514)
+* <strong>Siyu Xu</strong>, Jun He and Noshaba Aziz. ‘I’ VS ‘Me’: The Urbanization of ‘Post-80s’ and ‘Post-90s’ Chinese Migrant Workers. <em>Economic Research-Ekonomska Istraživanja</em>, 2023. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/1331677X.2023.2179514)
 
-- <strong>Siyu Xu</strong>, Yeye Zhao, Noshaba Aziz and Jun He, Does Education Affect Rural Women’s Trust? Evidence From China, Frontiers in Psychology,(2022)[[Paper]](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845110/full)
+* <strong>Siyu Xu</strong>, Huiqi Lin, Xi Li, Jun He and Noshaba Aziz. Effect of cognitive bias on the consumption of broiler products in China: the role of information acquisition channels. <em>British Food Journal</em>, 2023.
+
+* <strong>Siyu Xu</strong>, Cui Fu<sup>*</sup>. Migration, Belief Updating and Non-cooperative Behaviour within the Household: Evidence from China. Under Review.
+
+
+
 
