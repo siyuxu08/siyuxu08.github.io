@@ -26,7 +26,7 @@
 
 * Social Mobility, Labour Markets, and Patience.
 
-<small>Presentations:18th RGS Doctoral Conference in Economics (2025) </small>
+<small>Presentations:Royal Economic Society 2026 Annual Conference </small>
 
 
 
