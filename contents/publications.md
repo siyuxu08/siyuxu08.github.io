@@ -22,7 +22,7 @@
 
 * Genes, Preferences, and Childhood Disadvantage, with Chris Dawson and Rita Dias Pereira.
 
-<small>Fundings: PI-£1,943; CoI-£3500 </small>
+<small>Fundings: PI-£1943; CoI-£3500 </small>
 
 * Social Mobility, Labour Markets, and Patience.
 
