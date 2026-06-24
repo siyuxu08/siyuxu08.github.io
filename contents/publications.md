@@ -10,7 +10,7 @@
 
 * <strong>Siyu Xu</strong><sup>*</sup>, Chris Dawson and Paul Baker. More Guts, More Glory: The Impact of Overconfidence on Financial Outcomes.  <em>Journal of Financial and Quantitative Analysis</em> Reject and Resubmit.
 
-<small>Presentations:18th RGS Doctoral Conference in Economics,2025 </small>
+<small>Presentations:18th RGS Doctoral Conference in Economics,2025; EER Second Summer School (Poster)  </small>
 
 * <strong>Siyu Xu</strong>, Cui Fu<sup>*</sup>. Migration, Belief Updating and Non-cooperative Behaviour within the Household: Evidence from China. Under Review.
 
@@ -26,7 +26,7 @@
 
 * Social Mobility, Labour Markets, and Patience.
 
-<small>Presentations:18th RGS Doctoral Conference in Economics (2025);EER Second Summer School (Poster)  </small>
+<small>Presentations:18th RGS Doctoral Conference in Economics (2025) </small>
 
 
 
