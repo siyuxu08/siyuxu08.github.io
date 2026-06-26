@@ -1,8 +1,6 @@
 - Best Master’s dissertation in Jiangsu Province, China, 2024
 
-- National Scholarships, 2022.
-
-- Best Master’s dissertation, 2023.
+- National Scholarships, China, 2022.
 
 - Honor Graduate, 2023.
 
